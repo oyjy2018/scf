@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scfcloud-system" />
+        <module name="scfcloud-file" />
+        <module name="eureka-server" />
+        <module name="scfcloud-util" />
+        <module name="scfcloud-model" />
+        <module name="my-demo" />
+        <module name="scfcloud-task" />
+        <module name="scfcloud-config" />
+        <module name="scfcloud-app" />
+        <module name="scfcloud-ticket" />
+        <module name="scfcloud" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
+      <module name="my-demo" target="1.8" />
+      <module name="parent" target="1.8" />
+      <module name="quartz" target="1.8" />
+      <module name="scfcloud" target="1.8" />
+      <module name="scfcloud-app" target="1.8" />
+      <module name="scfcloud-config" target="1.8" />
+      <module name="scfcloud-file" target="1.8" />
+      <module name="scfcloud-model" target="1.8" />
+      <module name="scfcloud-quartz" target="1.8" />
+      <module name="scfcloud-system" target="1.8" />
+      <module name="scfcloud-task" target="1.8" />
+      <module name="scfcloud-ticket" target="1.8" />
+      <module name="scfcloud-time" target="1.8" />
+      <module name="scfcloud-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka-server" options="-parameters" />
+      <module name="my-demo" options="-parameters" />
+      <module name="quartz" options="-parameters" />
+      <module name="scfcloud" options="-parameters" />
+      <module name="scfcloud-app" options="-parameters" />
+      <module name="scfcloud-config" options="-parameters" />
+      <module name="scfcloud-file" options="-parameters" />
+      <module name="scfcloud-model" options="-parameters" />
+      <module name="scfcloud-quartz" options="-parameters" />
+      <module name="scfcloud-system" options="-parameters" />
+      <module name="scfcloud-task" options="-parameters" />
+      <module name="scfcloud-ticket" options="-parameters" />
+      <module name="scfcloud-time" options="-parameters" />
+      <module name="scfcloud-util" options="-parameters" />
+    </option>
+  </component>
+</project>

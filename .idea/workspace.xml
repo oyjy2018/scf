@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/transfer/CreditApplyTransfer.java" description="List&lt;CreditApplyMyListAppVO&gt;  toCreditApplyMyListA..." line="23" />
+    <bookmark url="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/transfer/UserTransfer.java" description="List&lt;UserVO&gt; users2UserVo(List&lt;User&gt; list);" line="22" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e00fe09a-82f6-4c1a-b3e7-19281d40e100" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/parent/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-file/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-model/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-system/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-util/target/" />
+    <ignored path="$PROJECT_DIR$/../scfcloud-config/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-config/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/quartz/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-time/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-task/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-app/target/" />
+    <ignored path="$PROJECT_DIR$/scfcloud-ticket/target/" />
+    <ignored path="$PROJECT_DIR$/my-demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scf" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/controller/BannerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2530">
+              <caret line="131" column="34" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/service/BannerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/service/impl/BannerServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2720">
+              <caret line="177" column="1" lean-forward="true" selection-start-line="177" selection-start-column="1" selection-end-line="177" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/config/ShiroConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="851">
+              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/BusinessTicketBannerMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>file1</find>
+      <find>lzy_sms_type_S507</find>
+      <find>yyyy-MM</find>
+      <find>response</find>
+      <find>ConfigurationInfo</find>
+      <find>initFlowRedis</find>
+      <find>UPLOAD_FOLDER</find>
+      <find>yyyy</find>
+      <find>LambdaQueryWrapper</find>
+      <find>poi</find>
+      <find>DateUtil</find>
+      <find>sca</find>
+      <find>sci</find>
+      <find>i</find>
+      <find>File</find>
+      <find>auditCommit</find>
+      <find>importRecord</find>
+      <find>类型不正确</find>
+      <find>sheet.getRow(i+1)</find>
+      <find>contract</find>
+      <find>yy</find>
+      <find>yyyy-MM-dd</find>
+      <find>address</find>
+      <find>loanNo</find>
+      <find>sbtq.order_status</find>
+      <find>DTO</find>
+      <find>main</find>
+      <find>0</find>
+      <find>buildingArea</find>
+      <find>${</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>usinessFlow</replace>
+      <replace>usinessFlowPermit</replace>
+      <replace>usinessWorkFlow</replace>
+      <replace>usinessWorkFlowAttr</replace>
+      <replace>usinessWorkFlowExtendVO</replace>
+      <replace>creditApplyAllListWebVOList</replace>
+      <replace>User</replace>
+      <replace>user</replace>
+      <replace>creditApplyAuditListWebVOList</replace>
+      <replace>creditApplyAuditListWebVO</replace>
+      <replace />
+      <replace>protected</replace>
+      <replace>&quot; &quot;</replace>
+      <replace>&quot;: &quot;</replace>
+      <replace>quotation</replace>
+      <replace>throw new RuntimeException(</replace>
+      <replace>sourceLength</replace>
+      <replace>getContractSignStatus</replace>
+      <replace>flowPermitList.add(dto);dto = new BusinessFlowPermitInitDTO();</replace>
+      <replace>DEFAULT_SUCCESS_NAME</replace>
+      <replace>DEFAULT_FAIL_NAME</replace>
+      <replace>QuartzScheduler</replace>
+      <replace>throw new RuntimeException</replace>
+      <replace>quartzFeignService</replace>
+      <replace>fileUploadLog</replace>
+      <replace>ScfRuntimeException</replace>
+      <replace>i+1</replace>
+      <replace>row</replace>
+      <replace>contractNo</replace>
+      <replace>oneDayList.get(0).</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\codes\scf\scfcloud\src\main\java\com\zhjs\scfcloud\config</dir>
+      <dir>F:\codes\scf\scfcloud\src\main\java\com\zhjs\scfcloud\feign</dir>
+      <dir>F:\codes\scf\scfcloud\src\main\java\com\zhjs\scfcloud\controller</dir>
+      <dir>F:\codes\scf\scfcloud-model</dir>
+      <dir>F:\codes\scf\scfcloud</dir>
+      <dir>F:\codes\scf\scfcloud-system</dir>
+      <dir>F:\codes\scf\scfcloud-model\src\main\java\com\zhjs\scfcloud\model</dir>
+      <dir>F:\codes\scf\scfcloud-model\src\main\java\com\zhjs\scfcloud\model\dto</dir>
+      <dir>F:\codes\scf\scfcloud-model\src\main\java\com\zhjs\scfcloud\model\vo</dir>
+      <dir>F:\codes\scf\scfcloud-system\src\main\java\com\zhjs\scfcloud\system\service\impl</dir>
+      <dir>F:\codes\scf</dir>
+      <dir>F:\codes\scf-test\scfcloud-model\src\main\java\com\zhjs\scfcloud\model\vo</dir>
+      <dir>F:\codes\scf-test\scfcloud-model\src\main\java\com\zhjs\scfcloud\model\mapper\mapping</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/scfcloud-ticket" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/eureka-server" value="master" />
+        <entry key="$PROJECT_DIR$/parent" value="master" />
+        <entry key="$PROJECT_DIR$/scfcloud" value="dev-test" />
+        <entry key="$PROJECT_DIR$/scfcloud-app" value="develop_1.1" />
+        <entry key="$PROJECT_DIR$/scfcloud-config" value="release" />
+        <entry key="$PROJECT_DIR$/scfcloud-file" value="release" />
+        <entry key="$PROJECT_DIR$/scfcloud-model" value="dev-test" />
+        <entry key="$PROJECT_DIR$/scfcloud-system" value="dev-test" />
+        <entry key="$PROJECT_DIR$/scfcloud-task" value="dev-test" />
+        <entry key="$PROJECT_DIR$/scfcloud-ticket" value="dev-test" />
+        <entry key="$PROJECT_DIR$/scfcloud-util" value="dev-test" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/feign/UserFeignService.java" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/UserService.java" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/LzProjectPurchaseLogisticsMapper.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectLoanListVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectPurchaseLogisticsListVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/LzProjectLoanMapper.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/LzProjectLoanMapper.xml" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectRefundListVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/LzProjectRefundMapper.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/LzProjectRefundMapper.xml" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/entity/LzProjectFile.java" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/impl/RiskControlModelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/businessTicket/BusinessTicketOrderAllListDTO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/BusinessTicketOrderMapper.xml" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/lzProject/LzProjectBoardReportDTO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-util/src/main/java/com/zhjs/scfcloud/util/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/test/java/com/zhjs/scfcloud/system/LzProjectTest.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectItemInfoVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/LzProjectPurchaseLogisticsMapper.xml" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/LzProjectInsuranceMapper.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectInsuranceListVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/controller/LzProjectController.java" />
+        <option value="$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/feign/LzProjectFeignService.java" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/controller/LzProjectController.java" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/LzProjectService.java" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/impl/LzProjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/LzProjectInvoiceMapper.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectInvoiceListVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/LzProjectInvoiceMapper.xml" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/LzProjectInsuranceMapper.xml" />
+        <option value="$PROJECT_DIR$/scfcloud-system/src/main/resources/mybatis-generator.xml" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerPageDTO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/banner/BannerPageVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerSortDTO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerDetailDTO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/banner/BannerDetailVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerUpdateDTO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerAddDTO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/BusinessTicketBannerMapper.xml" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/BusinessTicketBannerMapper.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerListDTO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/banner/BannerListVO.java" />
+        <option value="$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/controller/BannerController.java" />
+        <option value="$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/service/BannerService.java" />
+        <option value="$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/service/impl/BannerServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scfcloud-system" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scfcloud-system" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scfcloud-system" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/scfcloud-config/scfcloud-config.iml" />
+        <option value="$PROJECT_DIR$/scfcloud-config/scfcloud-config.iml" />
+        <option value="$PROJECT_DIR$/scfcloud-config/scfcloud-config.iml" />
+        <option value="$PROJECT_DIR$/scfcloud/scfcloud.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="520" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scf-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scf-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Git.Branch.Popup.ShowAllRepositories" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\codes\scf\my-demo\src\main\resources\license" />
+      <recent name="F:\codes\scf\my-demo\src\main\resources" />
+      <recent name="F:\codes\scf\my-demo\src\main\java\com\zhjs\demo\util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\codes\scf-test\scfcloud-model\src\main\java\com\zhjs\scfcloud\model\vo\lzProject" />
+      <recent name="F:\codes\scf\scfcloud-util\src\main\resources" />
+      <recent name="F:\codes\scf\scfcloud-util\src\main\resources\lib" />
+      <recent name="F:\codes\scf\scfcloud-model\src\main\java\com\zhjs\scfcloud\model\config" />
+      <recent name="F:\codes\scf\scfcloud\src\main\java\com\zhjs\scfcloud\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhjs.scfcloud.model.dto.banner" />
+      <recent name="com.zhjs.scfcloud.model.vo.banner" />
+      <recent name="com.zhjs.scfcloud.ticket.service.impl" />
+      <recent name="com.zhjs.scfcloud.ticket.service" />
+      <recent name="com.zhjs.scfcloud.ticket.controller" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zhjs.scfcloud.api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.16558442" />
+  </component>
+  <component name="RunManager" selected="JUnit.LzProjectTest.generateData">
+    <configuration name="DateUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhjs.scfcloud.util.util.DateUtil" />
+      <module name="scfcloud-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhjs.scfcloud.util.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditRecordTest.findCreditBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scfcloud-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhjs.scfcloud.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhjs.scfcloud.system" />
+      <option name="MAIN_CLASS_NAME" value="com.zhjs.scfcloud.system.CreditRecordTest" />
+      <option name="METHOD_NAME" value="findCreditBalance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LzProjectTest.generateData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scfcloud-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhjs.scfcloud.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhjs.scfcloud.system" />
+      <option name="MAIN_CLASS_NAME" value="com.zhjs.scfcloud.system.LzProjectTest" />
+      <option name="METHOD_NAME" value="generateData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LzProjectTest.list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scfcloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhjs.scfcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhjs.scfcloud" />
+      <option name="MAIN_CLASS_NAME" value="com.zhjs.scfcloud.LzProjectTest" />
+      <option name="METHOD_NAME" value="list" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketOrderTest.appendEsignAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scfcloud-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhjs.scfcloud.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhjs.scfcloud.system" />
+      <option name="MAIN_CLASS_NAME" value="com.zhjs.scfcloud.system.TicketOrderTest" />
+      <option name="METHOD_NAME" value="appendEsignAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.scfcloud.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.demo.MyDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScfcloudAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scfcloud-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.scfcloud.app.ScfcloudAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScfcloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scfcloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.scfcloud.ScfcloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScfcloudConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scfcloud-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.scfcloud.config.ScfcloudConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScfcloudFileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scfcloud-file" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.scfcloud.file.ScfcloudFileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScfcloudSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scfcloud-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.scfcloud.system.ScfcloudSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScfcloudTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scfcloud-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.scfcloud.task.ScfcloudTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScfcloudTicketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scfcloud-ticket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhjs.scfcloud.ticket.ScfcloudTicketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DateUtil" />
+      <item itemvalue="JUnit.TicketOrderTest.appendEsignAccount" />
+      <item itemvalue="JUnit.CreditRecordTest.findCreditBalance" />
+      <item itemvalue="JUnit.LzProjectTest.list" />
+      <item itemvalue="JUnit.LzProjectTest.generateData" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ScfcloudApplication" />
+      <item itemvalue="Spring Boot.ScfcloudConfigApplication" />
+      <item itemvalue="Spring Boot.ScfcloudFileApplication" />
+      <item itemvalue="Spring Boot.ScfcloudSystemApplication" />
+      <item itemvalue="Spring Boot.ScfcloudTaskApplication" />
+      <item itemvalue="Spring Boot.ScfcloudAppApplication" />
+      <item itemvalue="Spring Boot.ScfcloudTicketApplication" />
+      <item itemvalue="Spring Boot.MyDemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LzProjectTest.generateData" />
+        <item itemvalue="JUnit.LzProjectTest.list" />
+        <item itemvalue="JUnit.CreditRecordTest.findCreditBalance" />
+        <item itemvalue="JUnit.TicketOrderTest.appendEsignAccount" />
+        <item itemvalue="Application.DateUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e00fe09a-82f6-4c1a-b3e7-19281d40e100" name="Default Changelist" comment="" />
+      <created>1559636624031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559636624031</updated>
+      <workItem from="1559636625203" duration="8066000" />
+      <workItem from="1559696333555" duration="4256000" />
+      <workItem from="1559700656713" duration="3062000" />
+      <workItem from="1559703945209" duration="52212000" />
+      <workItem from="1560129029276" duration="53759000" />
+      <workItem from="1560306168980" duration="26228000" />
+      <workItem from="1560387392820" duration="87802000" />
+      <workItem from="1560734683280" duration="147205000" />
+      <workItem from="1561103595444" duration="86000" />
+      <workItem from="1561105510101" duration="12480000" />
+      <workItem from="1561337612044" duration="17604000" />
+      <workItem from="1561425050023" duration="18521000" />
+      <workItem from="1561510161557" duration="6935000" />
+      <workItem from="1561628099605" duration="10000" />
+      <workItem from="1561628363646" duration="43000" />
+      <workItem from="1561628419627" duration="5301000" />
+      <workItem from="1561685572334" duration="46519000" />
+      <workItem from="1561941892909" duration="27292000" />
+      <workItem from="1561978757726" duration="37106000" />
+      <workItem from="1562115191425" duration="34900000" />
+      <workItem from="1562219090073" duration="2189000" />
+      <workItem from="1562221297131" duration="13976000" />
+      <workItem from="1562288350832" duration="50039000" />
+      <workItem from="1562546908368" duration="28700000" />
+      <workItem from="1562662709439" duration="61370000" />
+      <workItem from="1562900107952" duration="43476000" />
+      <workItem from="1563118980140" duration="122000" />
+      <workItem from="1563152523803" duration="721000" />
+      <workItem from="1563154712441" duration="124907000" />
+      <workItem from="1563497821145" duration="49897000" />
+      <workItem from="1563758102357" duration="125932000" />
+      <workItem from="1564362744086" duration="12589000" />
+      <workItem from="1564385667832" duration="91622000" />
+      <workItem from="1564966297768" duration="8167000" />
+      <workItem from="1564977378163" duration="85054000" />
+      <workItem from="1565570739686" duration="27254000" />
+      <workItem from="1565690607702" duration="238000" />
+      <workItem from="1565744309005" duration="69527000" />
+      <workItem from="1566176634505" duration="788000" />
+      <workItem from="1566193305870" duration="111757000" />
+      <workItem from="1566781493184" duration="22442000" />
+      <workItem from="1566874237171" duration="13208000" />
+      <workItem from="1566898858544" duration="1661000" />
+      <workItem from="1566953903305" duration="16998000" />
+      <workItem from="1566979973297" duration="4002000" />
+      <workItem from="1566984008346" duration="23262000" />
+      <workItem from="1567130695320" duration="4642000" />
+      <workItem from="1569391759524" duration="535000" />
+      <workItem from="1571886508959" duration="23952000" />
+      <workItem from="1572224668436" duration="9098000" />
+      <workItem from="1572573154511" duration="860000" />
+      <workItem from="1572591997229" duration="3691000" />
+      <workItem from="1572847177930" duration="11828000" />
+      <workItem from="1572915512297" duration="10799000" />
+      <workItem from="1573002314162" duration="13594000" />
+      <workItem from="1573175296333" duration="8365000" />
+      <workItem from="1573453407759" duration="5973000" />
+      <workItem from="1573520481598" duration="13303000" />
+      <workItem from="1573606694813" duration="12280000" />
+      <workItem from="1573694031078" duration="8330000" />
+      <workItem from="1574039035533" duration="7984000" />
+      <workItem from="1574123968898" duration="11480000" />
+      <workItem from="1574212477963" duration="13598000" />
+      <workItem from="1574298554794" duration="11602000" />
+      <workItem from="1574387183913" duration="2019000" />
+    </task>
+    <task id="LOCAL-00423" summary="审批金额不能大于剩余授信额度">
+      <created>1566800884211</created>
+      <option name="number" value="00423" />
+      <option name="presentableId" value="LOCAL-00423" />
+      <option name="project" value="LOCAL" />
+      <updated>1566800884211</updated>
+    </task>
+    <task id="LOCAL-00424" summary="导入授信修改">
+      <created>1566809981867</created>
+      <option name="number" value="00424" />
+      <option name="presentableId" value="LOCAL-00424" />
+      <option name="project" value="LOCAL" />
+      <updated>1566809981867</updated>
+    </task>
+    <task id="LOCAL-00425" summary="录入用信修改">
+      <created>1566813668803</created>
+      <option name="number" value="00425" />
+      <option name="presentableId" value="LOCAL-00425" />
+      <option name="project" value="LOCAL" />
+      <updated>1566813668803</updated>
+    </task>
+    <task id="LOCAL-00426" summary="用信审批金额不能大于剩余授信额度">
+      <created>1566868279473</created>
+      <option name="number" value="00426" />
+      <option name="presentableId" value="LOCAL-00426" />
+      <option name="project" value="LOCAL" />
+      <updated>1566868279473</updated>
+    </task>
+    <task id="LOCAL-00427" summary="用信审批金额不能大于剩余授信额度">
+      <created>1566871735180</created>
+      <option name="number" value="00427" />
+      <option name="presentableId" value="LOCAL-00427" />
+      <option name="project" value="LOCAL" />
+      <updated>1566871735180</updated>
+    </task>
+    <task id="LOCAL-00428" summary="删除授信">
+      <created>1566875357357</created>
+      <option name="number" value="00428" />
+      <option name="presentableId" value="LOCAL-00428" />
+      <option name="project" value="LOCAL" />
+      <updated>1566875357358</updated>
+    </task>
+    <task id="LOCAL-00429" summary="授信查询未删除的">
+      <created>1566875610997</created>
+      <option name="number" value="00429" />
+      <option name="presentableId" value="LOCAL-00429" />
+      <option name="project" value="LOCAL" />
+      <updated>1566875610997</updated>
+    </task>
+    <task id="LOCAL-00430" summary="删除授信修改">
+      <created>1566877258352</created>
+      <option name="number" value="00430" />
+      <option name="presentableId" value="LOCAL-00430" />
+      <option name="project" value="LOCAL" />
+      <updated>1566877258352</updated>
+    </task>
+    <task id="LOCAL-00431" summary="删除授信修改">
+      <created>1566877364056</created>
+      <option name="number" value="00431" />
+      <option name="presentableId" value="LOCAL-00431" />
+      <option name="project" value="LOCAL" />
+      <updated>1566877364056</updated>
+    </task>
+    <task id="LOCAL-00432" summary="所有用信申请列表 增加返回实际用信金额">
+      <created>1566877766972</created>
+      <option name="number" value="00432" />
+      <option name="presentableId" value="LOCAL-00432" />
+      <option name="project" value="LOCAL" />
+      <updated>1566877766972</updated>
+    </task>
+    <task id="LOCAL-00433" summary="所有授信加筛选条件">
+      <created>1566893251631</created>
+      <option name="number" value="00433" />
+      <option name="presentableId" value="LOCAL-00433" />
+      <option name="project" value="LOCAL" />
+      <updated>1566893251631</updated>
+    </task>
+    <task id="LOCAL-00434" summary="文件修改测试">
+      <created>1566895110316</created>
+      <option name="number" value="00434" />
+      <option name="presentableId" value="LOCAL-00434" />
+      <option name="project" value="LOCAL" />
+      <updated>1566895110316</updated>
+    </task>
+    <task id="LOCAL-00435" summary="文件修改测试">
+      <created>1566895858201</created>
+      <option name="number" value="00435" />
+      <option name="presentableId" value="LOCAL-00435" />
+      <option name="project" value="LOCAL" />
+      <updated>1566895858201</updated>
+    </task>
+    <task id="LOCAL-00436" summary="文件修改">
+      <created>1566899274235</created>
+      <option name="number" value="00436" />
+      <option name="presentableId" value="LOCAL-00436" />
+      <option name="project" value="LOCAL" />
+      <updated>1566899274236</updated>
+    </task>
+    <task id="LOCAL-00437" summary="所有授信 授信期限天数加一">
+      <created>1566960702151</created>
+      <option name="number" value="00437" />
+      <option name="presentableId" value="LOCAL-00437" />
+      <option name="project" value="LOCAL" />
+      <updated>1566960702151</updated>
+    </task>
+    <task id="LOCAL-00438" summary="打包测试">
+      <created>1566971927214</created>
+      <option name="number" value="00438" />
+      <option name="presentableId" value="LOCAL-00438" />
+      <option name="project" value="LOCAL" />
+      <updated>1566971927214</updated>
+    </task>
+    <task id="LOCAL-00439" summary="恢复">
+      <created>1566972935039</created>
+      <option name="number" value="00439" />
+      <option name="presentableId" value="LOCAL-00439" />
+      <option name="project" value="LOCAL" />
+      <updated>1566972935039</updated>
+    </task>
+    <task id="LOCAL-00440" summary="合同年化率显示修改">
+      <created>1566973420202</created>
+      <option name="number" value="00440" />
+      <option name="presentableId" value="LOCAL-00440" />
+      <option name="project" value="LOCAL" />
+      <updated>1566973420202</updated>
+    </task>
+    <task id="LOCAL-00441" summary="切换电签地址">
+      <created>1566978192869</created>
+      <option name="number" value="00441" />
+      <option name="presentableId" value="LOCAL-00441" />
+      <option name="project" value="LOCAL" />
+      <updated>1566978192869</updated>
+    </task>
+    <task id="LOCAL-00442" summary="优化电签返回结果解析">
+      <created>1566980860326</created>
+      <option name="number" value="00442" />
+      <option name="presentableId" value="LOCAL-00442" />
+      <option name="project" value="LOCAL" />
+      <updated>1566980860327</updated>
+    </task>
+    <task id="LOCAL-00443" summary="增加默认时间格式转换方法">
+      <created>1566986534603</created>
+      <option name="number" value="00443" />
+      <option name="presentableId" value="LOCAL-00443" />
+      <option name="project" value="LOCAL" />
+      <updated>1566986534604</updated>
+    </task>
+    <task id="LOCAL-00444" summary="优化剩余额度计算">
+      <created>1566986675014</created>
+      <option name="number" value="00444" />
+      <option name="presentableId" value="LOCAL-00444" />
+      <option name="project" value="LOCAL" />
+      <updated>1566986675014</updated>
+    </task>
+    <task id="LOCAL-00445" summary="外部接口查授信余额">
+      <created>1566986713781</created>
+      <option name="number" value="00445" />
+      <option name="presentableId" value="LOCAL-00445" />
+      <option name="project" value="LOCAL" />
+      <updated>1566986713781</updated>
+    </task>
+    <task id="LOCAL-00446" summary="外部接口查授信余额">
+      <created>1567047826644</created>
+      <option name="number" value="00446" />
+      <option name="presentableId" value="LOCAL-00446" />
+      <option name="project" value="LOCAL" />
+      <updated>1567047826644</updated>
+    </task>
+    <task id="LOCAL-00447" summary="外部接口整合">
+      <created>1567060304689</created>
+      <option name="number" value="00447" />
+      <option name="presentableId" value="LOCAL-00447" />
+      <option name="project" value="LOCAL" />
+      <updated>1567060304689</updated>
+    </task>
+    <task id="LOCAL-00448" summary="添加计算一个字符串中出现另一个字符串次数的方法">
+      <created>1567061769820</created>
+      <option name="number" value="00448" />
+      <option name="presentableId" value="LOCAL-00448" />
+      <option name="project" value="LOCAL" />
+      <updated>1567061769820</updated>
+    </task>
+    <task id="LOCAL-00449" summary="增加读取pdf文字内容的方法">
+      <created>1567061884109</created>
+      <option name="number" value="00449" />
+      <option name="presentableId" value="LOCAL-00449" />
+      <option name="project" value="LOCAL" />
+      <updated>1567061884109</updated>
+    </task>
+    <task id="LOCAL-00450" summary="添加读取word文档内容的方法">
+      <created>1567062033348</created>
+      <option name="number" value="00450" />
+      <option name="presentableId" value="LOCAL-00450" />
+      <option name="project" value="LOCAL" />
+      <updated>1567062033348</updated>
+    </task>
+    <task id="LOCAL-00451" summary="修改">
+      <created>1567144485191</created>
+      <option name="number" value="00451" />
+      <option name="presentableId" value="LOCAL-00451" />
+      <option name="project" value="LOCAL" />
+      <updated>1567144485191</updated>
+    </task>
+    <task id="LOCAL-00452" summary="修改注释">
+      <created>1569392140419</created>
+      <option name="number" value="00452" />
+      <option name="presentableId" value="LOCAL-00452" />
+      <option name="project" value="LOCAL" />
+      <updated>1569392140420</updated>
+    </task>
+    <task id="LOCAL-00453" summary="深华项目列表&amp;项目基本信息">
+      <created>1572226045546</created>
+      <option name="number" value="00453" />
+      <option name="presentableId" value="LOCAL-00453" />
+      <option name="project" value="LOCAL" />
+      <updated>1572226045547</updated>
+    </task>
+    <task id="LOCAL-00454" summary="登录解密">
+      <created>1572246278356</created>
+      <option name="number" value="00454" />
+      <option name="presentableId" value="LOCAL-00454" />
+      <option name="project" value="LOCAL" />
+      <updated>1572246278356</updated>
+    </task>
+    <task id="LOCAL-00455" summary="用户接受邀请免登录">
+      <created>1572573260583</created>
+      <option name="number" value="00455" />
+      <option name="presentableId" value="LOCAL-00455" />
+      <option name="project" value="LOCAL" />
+      <updated>1572573260584</updated>
+    </task>
+    <task id="LOCAL-00456" summary="查询是否已通过邮箱验证接口">
+      <created>1572595158123</created>
+      <option name="number" value="00456" />
+      <option name="presentableId" value="LOCAL-00456" />
+      <option name="project" value="LOCAL" />
+      <updated>1572595158123</updated>
+    </task>
+    <task id="LOCAL-00457" summary="深华项目采购物流信息">
+      <created>1572851094626</created>
+      <option name="number" value="00457" />
+      <option name="presentableId" value="LOCAL-00457" />
+      <option name="project" value="LOCAL" />
+      <updated>1572851094626</updated>
+    </task>
+    <task id="LOCAL-00458" summary="深华项目经营借款&amp;个人借款">
+      <created>1572925006277</created>
+      <option name="number" value="00458" />
+      <option name="presentableId" value="LOCAL-00458" />
+      <option name="project" value="LOCAL" />
+      <updated>1572925006277</updated>
+    </task>
+    <task id="LOCAL-00459" summary="深华项目文件">
+      <created>1573009567659</created>
+      <option name="number" value="00459" />
+      <option name="presentableId" value="LOCAL-00459" />
+      <option name="project" value="LOCAL" />
+      <updated>1573009567660</updated>
+    </task>
+    <task id="LOCAL-00460" summary="获取模型公式修改">
+      <created>1573096275250</created>
+      <option name="number" value="00460" />
+      <option name="presentableId" value="LOCAL-00460" />
+      <option name="project" value="LOCAL" />
+      <updated>1573096275250</updated>
+    </task>
+    <task id="LOCAL-00461" summary="商票平台运营所有订单分类查询">
+      <created>1573459461360</created>
+      <option name="number" value="00461" />
+      <option name="presentableId" value="LOCAL-00461" />
+      <option name="project" value="LOCAL" />
+      <updated>1573459461360</updated>
+    </task>
+    <task id="LOCAL-00462" summary="项目看板卡片数据">
+      <created>1573464493500</created>
+      <option name="number" value="00462" />
+      <option name="presentableId" value="LOCAL-00462" />
+      <option name="project" value="LOCAL" />
+      <updated>1573464493500</updated>
+    </task>
+    <task id="LOCAL-00463" summary="项目看板曲线图数据">
+      <created>1573609980632</created>
+      <option name="number" value="00463" />
+      <option name="presentableId" value="LOCAL-00463" />
+      <option name="project" value="LOCAL" />
+      <updated>1573609980633</updated>
+    </task>
+    <task id="LOCAL-00464" summary="项目信息返回参数修改">
+      <created>1573622278743</created>
+      <option name="number" value="00464" />
+      <option name="presentableId" value="LOCAL-00464" />
+      <option name="project" value="LOCAL" />
+      <updated>1573622278743</updated>
+    </task>
+    <task id="LOCAL-00465" summary="项目采购物流信息兼容合同表的修改">
+      <created>1573623448143</created>
+      <option name="number" value="00465" />
+      <option name="presentableId" value="LOCAL-00465" />
+      <option name="project" value="LOCAL" />
+      <updated>1573623448143</updated>
+    </task>
+    <task id="LOCAL-00466" summary="项目保险">
+      <created>1573628795485</created>
+      <option name="number" value="00466" />
+      <option name="presentableId" value="LOCAL-00466" />
+      <option name="project" value="LOCAL" />
+      <updated>1573628795485</updated>
+    </task>
+    <task id="LOCAL-00467" summary="项目发票">
+      <created>1573719954411</created>
+      <option name="number" value="00467" />
+      <option name="presentableId" value="LOCAL-00467" />
+      <option name="project" value="LOCAL" />
+      <updated>1573719954412</updated>
+    </task>
+    <task id="LOCAL-00468" summary="项目发票根据发票日期升序排列">
+      <created>1573723961862</created>
+      <option name="number" value="00468" />
+      <option name="presentableId" value="LOCAL-00468" />
+      <option name="project" value="LOCAL" />
+      <updated>1573723961863</updated>
+    </task>
+    <task id="LOCAL-00469" summary="项目保险根据保险到期日升序排列">
+      <created>1573724163120</created>
+      <option name="number" value="00469" />
+      <option name="presentableId" value="LOCAL-00469" />
+      <option name="project" value="LOCAL" />
+      <updated>1573724163120</updated>
+    </task>
+    <task id="LOCAL-00470" summary="banner配置相关">
+      <created>1574308707757</created>
+      <option name="number" value="00470" />
+      <option name="presentableId" value="LOCAL-00470" />
+      <option name="project" value="LOCAL" />
+      <updated>1574308707758</updated>
+    </task>
+    <task id="LOCAL-00471" summary="首页获取banner修改">
+      <created>1574321168943</created>
+      <option name="number" value="00471" />
+      <option name="presentableId" value="LOCAL-00471" />
+      <option name="project" value="LOCAL" />
+      <updated>1574321168943</updated>
+    </task>
+    <option name="localTasksCounter" value="472" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LzProjectTest_generateData - 2019.11.12 at 15h 46m 57s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.13 at 17h 29m 16s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.13 at 17h 30m 34s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.14 at 09h 16m 20s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.14 at 09h 40m 33s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.14 at 09h 44m 30s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.14 at 09h 51m 42s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.14 at 09h 55m 52s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.14 at 09h 57m 20s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LzProjectTest_generateData - 2019.11.14 at 10h 18m 58s.xml">
+      <configuration name="LzProjectTest.generateData" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1753218000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5033829" side_tool="true" weight="0.19616205" />
+      <window_info id="Web" order="5" sideWeight="0.5034388" side_tool="true" weight="0.21695095" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.4965612" visible="true" weight="0.14872068" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.27735645" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.567714" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.56929636" weight="0.2881907" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.4073673" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50479746" side_tool="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946696" weight="0.29144096" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.19826652" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.5351812" weight="0.28060672" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49520257" visible="true" weight="0.2112676" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" weight="0.3033586" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.14978679" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="10" visible="true" weight="0.2185501" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5033829" side_tool="true" weight="0.19616205" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49661705" visible="true" weight="0.20469083" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.112676054" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.26760563" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6673774" weight="0.24485373" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.29469123" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.24377032" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.07475623" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4978678" weight="0.1971831" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49733475" visible="true" weight="0.27843988" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" weight="0.3033586" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.12473348" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="10" visible="true" weight="0.15138593" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="106" />
+                  <entry key="3" value="104" />
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="release" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop_1.1" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../scfcloud-config" />
+      <path value="$PROJECT_DIR$/scfcloud - 副本" />
+      <path value="$PROJECT_DIR$/scfcloud-time" />
+    </ignored-roots>
+    <MESSAGE value="外部接口整合" />
+    <MESSAGE value="添加计算一个字符串中出现另一个字符串次数的方法" />
+    <MESSAGE value="增加读取pdf文字内容的方法" />
+    <MESSAGE value="添加读取word文档内容的方法" />
+    <MESSAGE value="修改" />
+    <MESSAGE value="修改注释" />
+    <MESSAGE value="深华项目列表&amp;项目基本信息" />
+    <MESSAGE value="登录解密" />
+    <MESSAGE value="用户接受邀请免登录" />
+    <MESSAGE value="查询是否已通过邮箱验证接口" />
+    <MESSAGE value="深华项目采购物流信息" />
+    <MESSAGE value="深华项目经营借款&amp;个人借款" />
+    <MESSAGE value="深华项目文件" />
+    <MESSAGE value="获取模型公式修改" />
+    <MESSAGE value="商票平台运营所有订单分类查询" />
+    <MESSAGE value="项目看板卡片数据" />
+    <MESSAGE value="项目看板曲线图数据" />
+    <MESSAGE value="项目信息返回参数修改" />
+    <MESSAGE value="项目采购物流信息兼容合同表的修改" />
+    <MESSAGE value="项目保险" />
+    <MESSAGE value="项目发票" />
+    <MESSAGE value="项目发票根据发票日期升序排列" />
+    <MESSAGE value="项目保险根据保险到期日升序排列" />
+    <MESSAGE value="banner配置相关" />
+    <MESSAGE value="首页获取banner修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="首页获取banner修改" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="tempAttrList" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>retMap</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>retMap.get(&quot;list&quot;) == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>retMap.size() == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1+1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scfcloud-util/src/main/java/com/zhjs/scfcloud/util/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="129" column="25" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
+          <folding>
+            <element signature="method#getDatePoor#0;class#DateUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-task/src/main/java/com/zhjs/scfcloud/task/init/InitRedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_211/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="2519" column="26" selection-start-line="2519" selection-start-column="26" selection-end-line="2519" selection-end-column="26" />
+          <folding>
+            <element signature="e#113425#113426#0" expanded="true" />
+            <element signature="e#113484#113485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-util/src/main/java/com/zhjs/scfcloud/util/util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="124" column="49" lean-forward="true" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-file/src/main/java/com/zhjs/scfcloud/file/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="202" column="43" lean-forward="true" selection-start-line="202" selection-start-column="43" selection-end-line="202" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/lzProject/LzProjectBoardReportDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectItemInfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="69" column="35" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/LzProjectPurchaseLogisticsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/entity/LzProjectInsurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectRefundListVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/LzProjectInsuranceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/test/java/com/zhjs/scfcloud/system/LzProjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/test/java/com/zhjs/scfcloud/system/CompanyAuditServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/LzProjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/entity/LzProjectFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="61" column="27" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/entity/LzProjectInvoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectInsuranceListVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/LzProjectInvoiceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject/LzProjectInvoiceListVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="53" column="35" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/LzProjectInvoiceMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/LzProjectInsuranceMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/impl/LzProjectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="512" column="66" selection-start-line="512" selection-start-column="66" selection-end-line="512" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/controller/LzProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="209" column="55" selection-start-line="209" selection-start-column="55" selection-end-line="209" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/feign/LzProjectFeignService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="144" column="70" selection-start-line="144" selection-start-column="70" selection-end-line="144" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/controller/LzProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="224" column="5" selection-start-line="224" selection-start-column="5" selection-end-line="224" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/ticket/acceptor/AcceptorListDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/common/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#3057#3058#0" expanded="true" />
+            <element signature="e#3115#3116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/entity/BusinessTicketBanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/controller/OperationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/javax/validation/constraints/Max.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/BaseSingleUpdateDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/main/resources/mybatis-generator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="53" column="54" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/bind/annotation/PostMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerSortDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerDetailDTO.java" />
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/banner/BannerDetailVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerAddDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerUpdateDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/dto/banner/BannerListDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/BusinessTicketBannerMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/banner/BannerListVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4853">
+          <caret line="241" selection-start-line="241" selection-end-line="242" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud/src/main/java/com/zhjs/scfcloud/feign/UserFeignService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="79" selection-start-line="79" selection-end-line="81" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3864">
+          <caret line="188" column="4" selection-start-line="188" selection-start-column="4" selection-end-line="188" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2369">
+          <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-system/src/main/java/com/zhjs/scfcloud/system/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="672" column="13" selection-start-line="672" selection-start-column="13" selection-end-line="672" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/controller/BannerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2530">
+          <caret line="131" column="34" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/service/BannerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/BusinessTicketBannerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/service/impl/BannerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="177" column="1" lean-forward="true" selection-start-line="177" selection-start-column="1" selection-end-line="177" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>my-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

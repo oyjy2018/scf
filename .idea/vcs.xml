@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud-file" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud-ticket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scfcloud-util" vcs="Git" />
+  </component>
+</project>
