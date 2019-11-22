@@ -60,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/service/impl/BannerServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2720">
@@ -81,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/BusinessTicketBannerMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="736">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -184,7 +184,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/scfcloud-ticket" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/scfcloud-model" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/eureka-server" value="master" />
@@ -310,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="520" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -331,6 +331,51 @@
               <item name="scf-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="scf-test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="scf-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scf-test" type="462c0819:PsiDirectoryNode" />
+              <item name="scfcloud-file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scf-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scf-test" type="462c0819:PsiDirectoryNode" />
+              <item name="scfcloud-file" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scf-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scf-test" type="462c0819:PsiDirectoryNode" />
+              <item name="scfcloud-file" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scf-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scf-test" type="462c0819:PsiDirectoryNode" />
+              <item name="scfcloud-file" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scf-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scf-test" type="462c0819:PsiDirectoryNode" />
+              <item name="scfcloud-file" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scf-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scf-test" type="462c0819:PsiDirectoryNode" />
+              <item name="scfcloud-file" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -346,11 +391,12 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/vo/lzProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -645,7 +691,7 @@
       <workItem from="1574123968898" duration="11480000" />
       <workItem from="1574212477963" duration="13598000" />
       <workItem from="1574298554794" duration="11602000" />
-      <workItem from="1574387183913" duration="2019000" />
+      <workItem from="1574387183913" duration="5486000" />
     </task>
     <task id="LOCAL-00423" summary="审批金额不能大于剩余授信额度">
       <created>1566800884211</created>
@@ -1026,7 +1072,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1753218000" />
+    <option name="totallyTimeSpent" value="1756685000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1039,6 +1085,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -1046,7 +1093,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5033829" side_tool="true" weight="0.19616205" />
       <window_info id="Web" order="5" sideWeight="0.5034388" side_tool="true" weight="0.21695095" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.4965612" visible="true" weight="0.14872068" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.4965612" visible="true" weight="0.19989339" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.27735645" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.567714" />
@@ -1062,7 +1109,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.19826652" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.5351812" weight="0.28060672" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49520257" visible="true" weight="0.2112676" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49520257" visible="true" weight="0.13867822" />
       <window_info anchor="bottom" id="MyBatis Log" order="16" weight="0.3033586" />
       <window_info anchor="right" id="Maven" order="0" weight="0.14978679" />
       <window_info anchor="right" id="Palette" order="1" />
@@ -1261,16 +1308,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scfcloud-util/src/main/java/com/zhjs/scfcloud/util/util/DateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="129" column="25" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
-          <folding>
-            <element signature="method#getDatePoor#0;class#DateUtil#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scfcloud-task/src/main/java/com/zhjs/scfcloud/task/init/InitRedis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34">
@@ -1644,13 +1681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/BusinessTicketBannerMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scfcloud-ticket/src/main/java/com/zhjs/scfcloud/ticket/service/impl/BannerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2720">
@@ -1658,6 +1688,16 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scfcloud-model/src/main/java/com/zhjs/scfcloud/model/mapper/mapping/BusinessTicketBannerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
     </entry>

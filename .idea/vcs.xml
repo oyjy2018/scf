@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/config" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/eureka-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/risk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scfcloud" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scfcloud-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scfcloud-config" vcs="Git" />
